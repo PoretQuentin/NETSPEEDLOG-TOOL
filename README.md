@@ -1,6 +1,6 @@
 # Windows SpeedTest Dashboard
 
-> Surveillance automatique de votre connexion Internet avec visualisation graphique en temps réel — léger, local, sans dépendances cloud.
+> Surveillance automatique de votre connexion Internet avec visualisation graphique — léger, local, sans dépendances cloud.
 
 ---
 
