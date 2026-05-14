@@ -1,3 +1,9 @@
+![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey?logo=windows)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Version](https://img.shields.io/badge/Version-1.0-orange)
+![HTML](https://img.shields.io/badge/HTML-5-orange?logo=html5&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5.1%2B-blue?logo=powershell&logoColor=white)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-NETSPEEDLOG--TOOL-black?logo=github)](https://github.com/PoretQuentin/NETSPEEDLOG-TOOL)
 # Windows SpeedTest Dashboard
 
 > Surveillance automatique de votre connexion Internet avec visualisation graphique — léger, local, sans dépendances cloud.
